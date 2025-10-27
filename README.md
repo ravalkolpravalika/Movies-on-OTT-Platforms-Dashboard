@@ -17,7 +17,8 @@ Movies on OTT Platforms — https://www.kaggle.com/datasets/javagarm/movies-on-o
 
 # Dashboard Overview  
 The dashboard highlights:  
-- Number of movies by genre (Bar Chart)  
+- Number of movies by genre
+- Number of movies by age limit
 - Comparison between IMDb and Rotten Tomatoes ratings  
 - Availability of movies across OTT platforms  
 - Year-wise and country-wise movie analysis  
