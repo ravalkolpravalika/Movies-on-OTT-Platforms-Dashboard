@@ -104,42 +104,12 @@ The dashboard highlights:
 
 ---
 
-# 🎛️ Interactive Features
-
-- Country Filter
-- Interactive Charts
-- Dynamic KPI Cards
-- Cross-filtering between visuals
-- Beginner-friendly dashboard layout
-
----
-
-# 📚 Skills Demonstrated
-
-- Data Cleaning with Power Query
-- Data Modeling
-- DAX Measures
-- Interactive Dashboard Development
-- KPI Design
-- Data Visualization
-
----
-
 # 📸 Dashboard Preview
 
 ![Dashboard](images/Dashboard.png)
 
 ---
 
-# 🚀 Future Enhancements
-
-- Add TV Shows analysis
-- Include language-wise analysis
-- Create OTT platform comparison dashboard
-- Add runtime distribution analysis
-- Build recommendation-based visualizations
-
----
 
 # 👩‍💻 Done By
 
