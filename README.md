@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/Netflix-Logo.png" alt="Netflix Logo" width="180"/>
-</p>
 
 <h1 align="center">🎬 Movies on OTT Platforms Dashboard</h1>
 
